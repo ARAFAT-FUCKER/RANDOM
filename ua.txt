@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/355.0.0.21.108;FBBV/352948159;FBDM/{density=2.625,width=1080,height=2123};FBLC/ru_RU;FBRV/0;FBCR/ROBI_RIO;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N985F;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; AGS2-L09 Build/HUAWEIAGS2-L09) [FBAN/Orca-Android;FBAV/238.0.0.14.120;FBPN/com.facebook.orca;FBLC/hu_HU;FBBV/179092826;FBCR/GrameenPhone;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/AGS2-L09;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=1200,height=1852};FB_FW/1;]
