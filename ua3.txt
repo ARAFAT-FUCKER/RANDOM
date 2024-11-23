@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/196.0.0.36;FBPN/com.facebook.orca;FBLC/it_IT;FBBV/874117347;FBCR/Beeline;FBMF/Xiaomi;FBBD/Xiaomi;FBDV/21061119AG;FBSV/10.3.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=1080,height=720};FB_FW/1;FBRV/393187047;]
+[FBAN/FB4A;FBAV/336.0.0.20.117;FBBV/287214784;FBDM/{density=4.0,width=1200,height=812};FBLC/en_US;FBCR/Grameenphone;FBMF/AllView;FBBD/allview;FBPN/com.facebook.katana;FBDV/ Viva H1003 LTE;FBSV/10;FBCA/armeabi-v7a:armeabi;]
